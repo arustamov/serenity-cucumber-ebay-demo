@@ -1,4 +1,4 @@
-# Ebay Serenity BDD with Cucumber
+# eBay Serenity BDD with Cucumber Demo
 
 ## Get the code
 
@@ -14,3 +14,5 @@ Git:
 ## Viewing the reports
 
 This will produce a Serenity test report in the `target/site/serenity` directory (open `index.html`)
+
+![eBay Serenity BDD with Cucumber Demo](demo/serenity-cucumber-ebay-demo.gif)
