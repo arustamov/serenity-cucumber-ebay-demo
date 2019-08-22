@@ -1,13 +1,13 @@
-# eBay Serenity BDD with Cucumber Demo
+# eBay web test sample with Serenity BDD and Cucumber
 
-![eBay Serenity BDD with Cucumber Demo](src/main/resources/demo/serenity-cucumber-ebay-demo.gif)
+![eBay web test sample with Serenity BDD and Cucumber](src/main/resources/demo/serenity-cucumber-ebay-test-sample.gif)
 
 ## Get the code
 
 Git:
 
-    git clone https://github.com/arustamov/serenity-cucumber-ebay-demo.git
-    cd serenity-cucumber-ebay-demo
+    git clone https://github.com/arustamov/serenity-cucumber-ebay-test-sample.git
+    cd serenity-cucumber-ebay-test-sample
 
 ## Use Maven to run tests
 
